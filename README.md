@@ -53,4 +53,4 @@ Você pode acessar a página do projeto [aqui](https://meu-curriculo-primeiro-pr
 <br>
 
 ## Licença
-Projeto está licenciado sob a [Licença MIT](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
+Projeto está licenciado sob a [Licença MIT](https://github.com/fellypebardales/meu-curriculo-primeiro-projeto/blob/daac9f7b0d6803a1908342366eafcdcd08cb7e95/licenca.txt).
