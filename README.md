@@ -22,7 +22,7 @@
 
 ## Descrição do projeto 
 <p align="justify">
-  Este foi meu primeiro projeto desenvolvido após conhecer a linguagem de marcação HTML durante aprendizado na plataforma de cursos online UDEMY.
+  Este foi meu primeiro projeto desenvolvido após conhecer a linguagem de marcação HTML durante aprendizado na plataforma de cursos UDEMY.
 </p>
 
 <br>
